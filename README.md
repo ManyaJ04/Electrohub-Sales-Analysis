@@ -64,4 +64,4 @@ A detailed Sales Data Analysis project built in **Power BI**, focusing on an off
 
 ## 🤝 Connect
 
-> 💬 Feel free to fork, star ⭐ the repo or drop your feedback!
+>  star ⭐ the repo or drop your feedback!
